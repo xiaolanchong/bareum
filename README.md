@@ -1,0 +1,2 @@
+# bareum
+Korean pronunciation guide
